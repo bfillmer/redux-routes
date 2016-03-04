@@ -1,7 +1,9 @@
 
 # redux-routes
 
-  Simple redux routing middleware. Doesn't provide reducers or actions.
+  Simple redux history middleware.
+
+  Doesn't provide a reducer because reducers are application-specific. You'll want to save the payload (the `action.payload.url`) somewhere in your store so you can use it for routing.
 
 ## Install
 
