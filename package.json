@@ -1,0 +1,14 @@
+{
+  "name": "redux-routes",
+  "version": "1.0.0",
+  "description": "Redux routing middleware",
+  "keywords": ["redux", "routing", "history"],
+  "author": "Matthew Mueller <mattmuelle@gmail.com>",
+  "repository": { "type": "git", "url": "git://github.com/MatthewMueller/redux-routes.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
