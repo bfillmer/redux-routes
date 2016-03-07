@@ -1,6 +1,6 @@
 {
   "name": "redux-routes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Redux routing middleware",
   "keywords": [
     "redux",
